@@ -1,0 +1,2 @@
+void TestClass();
+void TestGlobalFuncs();
