@@ -5,6 +5,7 @@
 #endif*/
 
 #include "DnaSequence.h"
+
 int main()
 {
 	try {
